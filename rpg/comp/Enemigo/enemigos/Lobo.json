@@ -1,0 +1,17 @@
+{
+        "name": "lobo",
+        "strMin": 5,
+        "strMax": 12,
+        "vidaMin": 35,
+        "vidaMax": 75,
+        "expMin": 16,
+        "expMax": 32,
+        "velocidadMin": 4,
+        "velocidadMax":8,
+        "coinMin": 35,
+        "coinMax": 85,
+        "defMin": 4,
+        "defMax": 7
+        
+
+}

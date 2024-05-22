@@ -1,0 +1,10 @@
+{
+    "id":"ADH",
+    "def":15,
+    "hp":25,
+    "value":450,
+    "price":835,
+    "name":"Armadura De Hierro",
+    "grad":2,
+    "type": "prot"
+}

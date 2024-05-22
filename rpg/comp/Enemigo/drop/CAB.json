@@ -1,0 +1,23 @@
+{
+    "epic": [{
+        "id": "ADCAB",
+        "def": 55,
+        "hp": 25,
+        "price": 1900,
+        "name": "Armadura De caballero",
+        "grad": 3,
+        "type": "prot",
+        "countMin": 1,
+        "countMax": 1
+    }],
+
+    "normal": [{
+        "id": "LDHM",
+        "price": 250,
+        "name": "Lingote de hierro maldito",
+        "grad": 3,
+        "type": "item",
+        "countMin": 5,
+        "countMax": 10
+    }]
+}

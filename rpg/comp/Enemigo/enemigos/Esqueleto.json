@@ -1,0 +1,16 @@
+{
+        "name": "Equeleto",
+        "strMin": 6,
+        "strMax": 12,
+        "vidaMin": 45,
+        "vidaMax": 80,
+        "expMin": 15,
+        "expMax": 20,
+        "velocidadMin": 4,
+        "velocidadMax":7,
+        "coinMin": 85,
+        "coinMax": 125,
+        "defMin": 6,
+        "defMax": 10,
+        "tableID": "ESQ"
+}

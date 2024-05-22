@@ -1,0 +1,10 @@
+{
+    "id":"ADC",
+    "def":5,
+    "hp":15,
+    "value":100,
+    "price":250,
+    "name":"Armadura De Cuero",
+    "grad":1,
+    "type": "prot"
+}

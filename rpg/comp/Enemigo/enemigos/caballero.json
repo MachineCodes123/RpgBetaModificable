@@ -1,0 +1,16 @@
+{
+        "name": "Caballero",
+        "strMin": 4,
+        "strMax": 10,
+        "vidaMin": 45,
+        "vidaMax": 70,
+        "expMin": 7,
+        "expMax": 14,
+        "velocidadMin": 3,
+        "velocidadMax":5,
+        "coinMin": 30,
+        "coinMax": 65,
+        "defMin": 3,
+        "defMax": 5,
+        "tableID": "CAB"
+}

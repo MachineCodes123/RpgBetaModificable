@@ -1,0 +1,9 @@
+{
+    "id":"POC",
+    "hp":50,
+    "value":3500,
+    "price":2450,
+    "name":"Pocion de vida",
+    "grad":2,
+    "type": "heal"
+}

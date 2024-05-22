@@ -1,0 +1,23 @@
+{
+    "epic": [{
+        "id": "ADH",
+        "def": 45,
+        "hp": 65,
+        "price": 2065,
+        "name": "Armadura De hueso",
+        "grad": 3,
+        "type": "prot",
+        "countMin": 1,
+        "countMax": 1
+    }],
+
+    "normal": [{
+        "id": "HDE",
+        "price": 250,
+        "name": "Hueso de esqueleto",
+        "grad": 1,
+        "type": "item",
+        "countMin": 5,
+        "countMax": 20
+    }]
+}

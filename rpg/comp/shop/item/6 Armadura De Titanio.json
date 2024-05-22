@@ -1,0 +1,10 @@
+{
+    "id":"ADT",
+    "def":30,
+    "hp":50,
+    "value":1245,
+    "price":2065,
+    "name":"Armadura De titanio",
+    "grad":2,
+    "type": "prot"
+}

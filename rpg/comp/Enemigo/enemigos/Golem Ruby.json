@@ -1,0 +1,15 @@
+{
+        "name": "Golem de Ruby",
+        "strMin": 6,
+        "strMax": 14,
+        "vidaMin": 40,
+        "vidaMax": 60,
+        "expMin": 10,
+        "expMax": 20,
+        "velocidadMin": 1,
+        "velocidadMax":4,
+        "coinMin": 60,
+        "coinMax": 95,
+        "defMin": 5,
+        "defMax": 8
+}
